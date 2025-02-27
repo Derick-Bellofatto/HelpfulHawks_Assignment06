@@ -27,6 +27,7 @@
     <Compile Include="mainPackage\__init__.py">
       <SubType>Code</SubType>
     </Compile>
+    <Compile Include="Nairap\Nairapclass.py" />
     <Compile Include="Painjavv\plants.py">
       <SubType>Code</SubType>
     </Compile>
